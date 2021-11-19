@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Patrick
 #### Junior Java / JS Developer
-![Junior Java / JS Developer](https://github.com/HaveIstos/HaveIstos/blob/main/README.md)
+![Junior Java / JS Developer](https://github.com/HaveIstos/HaveIstos/blob/main/1.png)
 
 🎤 - I am communicative person with exceptional leadership skills.
 🎯 - As a coach I have the ability to get through to every kind of character.
