@@ -2,11 +2,11 @@
 ## Hi there 👋, I'm Patryk Świdziński
 #### Junior Java / JS Developer
 
-*🎤 - I am communicative person with exceptional leadership skills.
-*🎯 - As a coach I have the ability to get through to every kind of character.
-*🧘 - I don’t mind working under the pressure,
-*🙋‍♂️- I always foster a good team spirit.
-*📈 - I feel motivated by making a progress and setting a high benchmark.
+🎤 - I am communicative person with exceptional leadership skills.
+🎯 - As a coach I have the ability to get through to every kind of character.
+🧘 - I don’t mind working under the pressure.
+🙋‍♂️- I always foster a good team spirit.
+📈 - I feel motivated by making a progress and setting a high benchmark.
 
 ### Skills and Experience
 
@@ -27,4 +27,4 @@ HaveIstos/HaveIstos is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaveIstots)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaveIstots)](https://github.com/HaveIstots/github-readme-stats)
