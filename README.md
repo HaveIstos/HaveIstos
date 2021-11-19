@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Patrick
-#### Junior Java / JS Developer
 ![Junior Java / JS Developer](https://github.com/HaveIstos/HaveIstos/blob/main/1.png)
+#### Hi there 👋, I'm Patryk Świdziński
+## Junior Java / JS Developer
 
 🎤 - I am communicative person with exceptional leadership skills.
 🎯 - As a coach I have the ability to get through to every kind of character.
@@ -8,7 +8,14 @@
 🙋‍♂️- I always foster a good team spirit.
 📈 - I feel motivated by making a progress and setting a high benchmark.
 
-Skills: Java / SQL databases / Spring / Agile, Scrun / JDBC and Hibernate / REACT / JS / HTML / CSS
+### Skills and Experience
+
+*  💻 Java / JS / HTML / CSS
+*  📊 SQL databases
+*  📲 Spring
+*  👥 Agile, Scrun
+*  🗺 JDBC and Hibernate
+*  ⚛️ REACT
 
 
 
