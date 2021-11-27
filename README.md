@@ -3,11 +3,11 @@
 #### Junior Java / JS Developer
 
 ##
-🎤 - I am communicative person with exceptional leadership skills.
-🎯 - As a coach I have the ability to get through to every kind of character.
-🧘 - I don’t mind working under the pressure.
-🙋‍♂️- I always foster a good team spirit.
-📈 - I feel motivated by making a progress and setting a high benchmark.
+- 🎤  I am communicative person with exceptional leadership skills.
+- 🎯  As a coach I have the ability to get through to every kind of character.
+- 🧘  I don’t mind working under the pressure.
+- 🙋‍♂️  I always foster a good team spirit.
+- 📈  I feel motivated by making a progress and setting a high benchmark.
 <br />
 
 ### Skills and Experience
